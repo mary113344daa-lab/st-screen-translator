@@ -4,8 +4,6 @@ macOS 截图翻译工具：按快捷键框选屏幕，将多语言文字翻译�
 
 ## 下载
 
-1.3.0 正在准备发布；发布页出现 ZIP 附件后即可下载。
-
 [打开下载页面](https://github.com/mary113344daa-lab/st-screen-translator/releases)
 
 支持 **macOS 15 及以上、Apple Silicon 和 Intel Mac**。下载发布附件中的 macOS ZIP，解压后将 `ST专用.app` 拖到“应用程序”，再打开。

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ST专用</title>
+        <item>
+            <title>1.3.0</title>
+            <pubDate>Thu, 15 Oct 2026 03:49:13 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mary113344daa-lab/st-screen-translator/releases/download/v1.3.0/ST-1.3.0-4-universal.zip" length="2583907" type="application/octet-stream" sparkle:edSignature="gdJTtIuMplqjwtkO+T/TToOS2Sh6vu4zOzCqxpbPs0homnO5Q6FvQF6OYUHc6wscTIefvO5U9OuXcOeg5Ft+Cg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 8TVWGto4kPV6IQ13ufBl3qTUXlP7qUYGnBNys7U8P0r4Jzwu6MNO2NiF/rRQO3MlWqPOcEsT/DpIqdH5qECOBA==
+length: 1068
+-->
