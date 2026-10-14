@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ST专用</title>
         <item>
-            <title>1.3.1</title>
-            <pubDate>Thu, 15 Oct 2026 04:33:39 +0800</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <title>1.3.2</title>
+            <pubDate>Thu, 15 Oct 2026 07:41:51 +0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mary113344daa-lab/st-screen-translator/releases/download/v1.3.1/ST-1.3.1-5-universal.zip" length="2644344" type="application/octet-stream" sparkle:edSignature="+atu+6tDkodA4nQ+H4pLAQ6KDTF2nDk5/a9GK6HA9gm1b+gl3YtGCloA3aoCPzsXI4XdSgX+9BumAomixwnnCg=="></enclosure>
+            <enclosure url="https://github.com/mary113344daa-lab/st-screen-translator/releases/download/v1.3.2/ST-1.3.2-6-universal.zip" length="2739629" type="application/octet-stream" sparkle:edSignature="4AVIFWYM8uBntZQ2HAffUQpLam4z//+OnoPvOZy92w7Ff+SG2AyBPKEQhIHk6RUIOQ1BVu9KU5FwgQcCKINdCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Kpfe2gCdjBLSsvPnPH8ZyV3A7AVZPKQlyIEUrbynZLOEmLXXVcsHC8NlB6QgjyBIwS3j+A7hiYPyg6cL3F0/Bg==
+edSignature: 8QQIvpUN9vn1+r9T4hmpbPLyzjXbIw3s7fZtCmGYr19V4P4EcLXA7mD3uYZi8irdP2d2Y3B2qkk4ezskIvFOBA==
 length: 1068
 -->
